@@ -1,5 +1,5 @@
 # Hi there 👋
-### I'm [ScripTanka] or just Tanya in the human world
+### I'm ScripTanka or just Tanya in the human world
 ### I'm frontend web developer
 I like
 - 🍫 chocolate
