@@ -1,10 +1,10 @@
 # Hi there 👋
-### I'm ScripTanka or just Tanya in the human world
+### I'm IT-Tanka or just Tanya in the human world
 ### I'm frontend web developer
 I like
-- 🍫 chocolate
-- 🚲 bike
+- 🍵 tea
 - 🧥 clothes
+- 😼 cats
 
 and coding of course 💻
 <br>
