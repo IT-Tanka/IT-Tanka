@@ -24,13 +24,20 @@ and coding of course 💻
 
 #
 
+### My certificate
+<img   src="https://github.com/IT-Tanka/certificate/blob/main/htmlcss.jpg"  width="200" height="130" alt="image:certificate">
+<img   src="https://github.com/IT-Tanka/certificate/blob/main/js_start.jpg"  width="200" height="130" alt="image:certificate">
+<img   src="https://github.com/IT-Tanka/certificate/blob/main/js_adv.jpg"  width="200" height="130" alt="image:certificate">
+<img   src="https://https://github.com/IT-Tanka/certificate/blob/main/git.jpg"  width="200" height="130" alt="image:certificate">
+<img   src="https://github.com/IT-Tanka/certificate/blob/main/htmlcss.jpg"  width="200" height="130" alt="image:certificate">
+
 ### I’m currently learning
 
 
 <img align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/gulp/gulp.png"  width="35" height="35" alt="gulp logo">
 <img align="left"src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"  width="35" height="35" alt="react logo">
 <img   src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/wordpress/wordpress.png"  width="35" height="35" alt="wordpress logo">
-<img   src="https://github.com/IT-Tanka/you_tube/blob/main/img/01.jpg"  width="35" height="35" alt="wordpress logo">
+
 and English 🍀 of course 😄
 
 <!--
