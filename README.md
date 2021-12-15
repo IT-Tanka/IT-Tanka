@@ -30,7 +30,7 @@ and coding of course 💻
 <img align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/gulp/gulp.png"  width="35" height="35" alt="gulp logo">
 <img align="left"src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"  width="35" height="35" alt="react logo">
 <img   src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/wordpress/wordpress.png"  width="35" height="35" alt="wordpress logo">
-
+<img   src="https://github.com/IT-Tanka/you_tube/blob/main/img/01.jpg"  width="35" height="35" alt="wordpress logo">
 and English 🍀 of course 😄
 
 <!--
