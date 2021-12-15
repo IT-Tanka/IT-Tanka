@@ -29,7 +29,7 @@ and coding of course 💻
 <img   src="https://github.com/IT-Tanka/certificate/blob/main/js_start.jpg"  width="200" height="130" alt="image:certificate">
 <img   src="https://github.com/IT-Tanka/certificate/blob/main/js_adv.jpg"  width="200" height="130" alt="image:certificate">
 <img   src="https://https://github.com/IT-Tanka/certificate/blob/main/git.jpg"  width="200" height="130" alt="image:certificate">
-<img   src="https://github.com/IT-Tanka/certificate/blob/main/htmlcss.jpg"  width="200" height="130" alt="image:certificate">
+<img   src="https://github.com/IT-Tanka/certificate/blob/main/tilda.png"  width="200" height="130" alt="image:certificate">
 
 ### I’m currently learning
 
