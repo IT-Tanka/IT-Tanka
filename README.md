@@ -4,7 +4,6 @@
 I like
 - 🍵 tea
 - 🧥 clothes
-- 😼 cats
 
 and coding of course 💻
 <br>
