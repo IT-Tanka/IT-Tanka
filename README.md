@@ -1,5 +1,5 @@
 # Hi there 👋
-### I'm IT-Tanka or just Tanya in the human world
+### I'm IT-Tanka or just Tatiana in the human world
 ### I'm frontend web developer
 I like
 - 🍵 tea
