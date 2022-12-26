@@ -35,7 +35,7 @@ and coding of course 💻
 <img  align="left"   src="https://github.com/IT-Tanka/certificate/blob/main/frontend.jpg"  width="200" height="130" alt="image:certificate frontend">
 <img  align="left" src="https://github.com/IT-Tanka/certificate/blob/main/typescript.jpg"  width="200" height="130" alt="image:certificate typescript">
 <img  align="left" src="https://github.com/IT-Tanka/certificate/blob/main/git.jpg"  width="200" height="130" alt="image:certificate git">
-<img  src="https://github.com/IT-Tanka/certificate/blob/main/js_adv.jpg"  width="200" height="130" alt="image:certificate js_advanced">
+<img  align="left"  src="https://github.com/IT-Tanka/certificate/blob/main/js_adv.jpg"  width="200" height="130" alt="image:certificate js_advanced">
 <img   align="left" src="https://github.com/IT-Tanka/certificate/blob/main/htmlcss.jpg"  width="200" height="130" alt="image:certificate htmlcss">
 <img  align="left"  src="https://github.com/IT-Tanka/certificate/blob/main/js_start.jpg"  width="200" height="130" alt="image:certificate js">
 <img    src="https://github.com/IT-Tanka/certificate/blob/main/tilda.png"  width="200" height="130" alt="image:certificate tilda">
