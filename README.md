@@ -33,6 +33,7 @@ and coding of course 💻
 
 ### My certificates
 <img  align="left"   src="https://github.com/IT-Tanka/certificate/blob/main/frontend.jpg"  width="200" height="130" alt="image:certificate frontend">
+<img   align="left" src="https://github.com/IT-Tanka/certificate/blob/main/react_native.jpg"  width="200" height="130" alt="image:certificate react-native">
 <img  align="left" src="https://github.com/IT-Tanka/certificate/blob/main/react.jpg"  width="200" height="130" alt="image:certificate react">
 <img  align="left" src="https://github.com/IT-Tanka/certificate/blob/main/vue.jpg"  width="200" height="130" alt="image:certificate vue">
 <img  align="left" src="https://github.com/IT-Tanka/certificate/blob/main/typescript.jpg"  width="200" height="130" alt="image:certificate typescript">
@@ -41,6 +42,7 @@ and coding of course 💻
 <img   align="left" src="https://github.com/IT-Tanka/certificate/blob/main/htmlcss.jpg"  width="200" height="130" alt="image:certificate htmlcss">
 <img  align="left"  src="https://github.com/IT-Tanka/certificate/blob/main/js_start.jpg"  width="200" height="130" alt="image:certificate js">
 <img    src="https://github.com/IT-Tanka/certificate/blob/main/tilda.png"  width="200" height="130" alt="image:certificate tilda">
+
 
 #
 
